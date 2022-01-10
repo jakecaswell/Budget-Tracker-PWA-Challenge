@@ -15,6 +15,7 @@ Run 'npm start' to bring up the application on your local device. Or you can vis
 ## Credits
 Jake Caswell
 ## Screenshot/Demo
+![budget-tracker-screenshot](https://user-images.githubusercontent.com/88010158/148851932-faf82db9-f3c6-4f64-bc14-1f9e60c5d276.PNG)
 Link to the application: https://stormy-thicket-19730.herokuapp.com/
 ## License
 This project uses the MIT license.
